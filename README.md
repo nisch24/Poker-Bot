@@ -1,4 +1,4 @@
-# ♠ Texas Hold'em Poker Bot ♠
+# Texas Hold'em Poker Bot 
 
 A fully playable **Texas Hold'em poker game** against a strategic AI bot, built entirely in Python with no external dependencies.
 
@@ -6,7 +6,7 @@ A fully playable **Texas Hold'em poker game** against a strategic AI bot, built 
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Requirements
 - **Python 3.x** (no additional packages needed — uses only the standard library)
@@ -18,7 +18,7 @@ python "Poker Bot.py"
 
 ---
 
-## 🎮 How to Play
+## How to Play
 
 1. **Launch** the game — your two hole cards appear face-up at the bottom of the table
 2. **Choose an action** each betting round:
